@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ports>
+  <table Columns="1" Rows="5" />
+  <port name="COM1" baud="115200" />
+  <port name="COM2" baud="115200" />
+  <port name="COM3" baud="115200" />
+  <port name="COM4" baud="115200" />
+  <port name="COM5" baud="115200" />
+</ports>

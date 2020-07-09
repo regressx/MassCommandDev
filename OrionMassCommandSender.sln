@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrionMassCommandSender.UI", "OrionMassCommandSender.UI\OrionMassCommandSender.UI.csproj", "{10D210F6-A0E0-4C88-BAA5-857A36CA4B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrionMassCommandSender.BL", "OrionMassCommandSender.BL\OrionMassCommandSender.BL.csproj", "{FC56A9CB-AA68-484F-9DF3-42D3D9488AB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrionMassCommandSenderOld", "OrionMassCommandSenderOld\OrionMassCommandSenderOld.csproj", "{6E07FDB4-7261-4FD5-BD8B-B052D68D75BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10D210F6-A0E0-4C88-BAA5-857A36CA4B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D210F6-A0E0-4C88-BAA5-857A36CA4B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D210F6-A0E0-4C88-BAA5-857A36CA4B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D210F6-A0E0-4C88-BAA5-857A36CA4B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC56A9CB-AA68-484F-9DF3-42D3D9488AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC56A9CB-AA68-484F-9DF3-42D3D9488AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC56A9CB-AA68-484F-9DF3-42D3D9488AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC56A9CB-AA68-484F-9DF3-42D3D9488AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E07FDB4-7261-4FD5-BD8B-B052D68D75BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E07FDB4-7261-4FD5-BD8B-B052D68D75BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E07FDB4-7261-4FD5-BD8B-B052D68D75BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E07FDB4-7261-4FD5-BD8B-B052D68D75BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93264D32-5906-4923-9529-A4A73F506098}
+	EndGlobalSection
+EndGlobal
